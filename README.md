@@ -5,7 +5,7 @@
 
 ## 📌 Overview
 
-This repository contains datasets of empirical observations on **Cs-137 activity release during the combustion of biomass materials** in typical ecosystems and landscapes of the **Chornobyl Exclusion Zone**.
+This repository contains datasets of empirical observations on **Cs-137 activity release during the combustion of biomass materials** in typical ecosystems/landscapes of the **Chornobyl Exclusion Zone**.
 
 ### 🌲 Covered ecosystems and materials
 
@@ -16,14 +16,14 @@ This repository contains datasets of empirical observations on **Cs-137 activity
 - **Birch forest**
   - forest litter
 - **Meadow ecosystems**
-  - herb litter
-  - live grass vegetation
+  - herbaceous litter
+  - live herbaceous vegetation
 
 ---
 
 ## 🧪 Description
 
-The data are provided to support the estimation of **¹³⁷Cs emissions to the atmospheric air during wildfires** in the Chornobyl Exclusion Zone under different **environmental and combustion conditions**.
+The data are provided to support the estimation of **¹³⁷Cs emissions to the atmospheric air during wildfires** in the Chornobyl Exclusion Zone under different **environmental conditions**.
 
 > 📄 **Methodological background and discussion**  
 > More detailed information on methodological aspects and discussion of the obtained results is presented in the paper:  
@@ -49,7 +49,7 @@ Cs-137-release-during-combustion-of-biomass-materials/
 
 ## 📖 Citation
 
-If you use these data in your research, please cite the archived version (v1.1) of this repository:
+If you use these data in your research, please cite the archived version (v1.1.0) of this repository:
 
 >**Holiaka, D. (2025).**
 > Cs-137-release-during-combustion-of-biomass-materials: Datasets of empirical observations about Cs-137 activity release during combustion of biomass materials in typical ecosystems of the Chornobyl Exclusion Zone [Data set].
