@@ -53,7 +53,7 @@ If you use these data in your research, please cite the archived version (v1.1.0
 
 >**Holiaka, D. (2025).**
 > Cs-137-release-during-combustion-of-biomass-materials: Datasets of empirical observations about Cs-137 activity release during combustion of biomass materials in typical ecosystems of the Chornobyl Exclusion Zone [Data set].
-> Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Zenodo. https://doi.org/10.5281/10.5281/zenodo.17991406
 
 ---
 
