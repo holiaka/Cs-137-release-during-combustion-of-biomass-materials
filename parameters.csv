@@ -1,0 +1,23 @@
+﻿Parameters,Description,Unit
+Site #,"Order number of the site according to the publication: D. M. Holiaka, S. E. Levchuk, M. O. Hrechaniuk, V. V. Illienko, M. A. Holiaka, V. P. Protsak, V. O. Kashparov (2026). Cs-137 release from combustible materials burning under different environmental conditions in the Chornobyl Exclusion Zone",-
+Point,Order number of sampling points at the site,-
+Landscape,Type  of landscape,-
+Combustion date,Burning data for combustible material samples,-
+Sample,Type of sample: GFF is green forest floor (moss or grass vegetation); L is fresh litterfall layer of forest litter; F is fragmented layer of forest litter; H is humified layer of forest litter; Litter is all layers of the soil organic horizon including live GFF; Live branch is green live branch of pine trees (shoots up to 1.0 cm in diameter),-
+"Mwet, g",Mass of combustible material under field conditions,g
+"Mdry, g",Mass of combustible material after air-drying,g
+"Mash, g",Mass of residue after combustion of combustible material,g
+"Moisture, %",Moisture content of the sample at the time of combustion,%
+"Incombustible residue, %",Ratio between the sample mass before and after combustion,%
+"AC comb, kBq/kg",Cs-137 activity concentration in combustible material under air-dry conditions; values marked with an asterisk (*) correspond to field conditions,kBq kg-1
+"Un. A comb (2SD), %",Uncertainty of Cs-137 activity concentration in combustible material expressed as the mean error at 2 standard deviations (±2SD),%
+"A filter, Bq",Cs-137 activity deposited on the Petryanov filter cloth during the fire experiment,Bq
+"Un. A filter (2SD), %",Uncertainty of Cs-137 activity on Petryanov filter cloth  expressed as the mean error  in ±2SD,%
+"A other, Bq",Cs-137 activity deposited on all other surfaces (excluding the filter cloth) of the field-scale combustion setup,Bq
+"Un. A other (2SD), %",Uncertainty of s-137 activity deposited on all other surfaces (excluding the filter cloth) of the field-scale combustion setup expressed as the mean error at ±2SD,%
+"A aerosol, Bq",Calculated total Cs-137 activity deposited on all surfaces of the field-scale combustion setup ,Bq
+"Un. A aerosols (2SD), %",Uncertainty of total Cs-137 activity deposited on all surfaces of the field-scale combustion setup expressed as the mean error at ±2SD,%
+"A comb, kBq",Calculated total Cs-137 activity in combustible material before combustion,kBq
+"Un. A comb (2SD), %",Uncertainty of total Cs-137 activity in combustible material before combustion expressed as the mean error at ±2SD,%
+"RF, %",Cs-137 release factor from combustible materials to atmospheric air,%
+"Un. RF (2SD), %",Uncertainty of calculated Cs-137 release factor expressed as the mean error at ±2SD,%
